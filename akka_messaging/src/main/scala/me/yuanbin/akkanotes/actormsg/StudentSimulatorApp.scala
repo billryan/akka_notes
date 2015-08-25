@@ -8,7 +8,7 @@ import me.yuanbin.akkanotes.protocols.StudentProtocol._
  * Let's have the student as a simple App now instead of an Actor for the first part.
  *
  */
-object StudentActorApp extends App {
+object StudentSimulatorApp extends App {
   //Initialize the ActorSystem
   val actorSystem = ActorSystem("UniversityMessageSystem")
 
