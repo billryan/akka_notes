@@ -33,3 +33,6 @@ Session.vim
 
 # target
 target
+
+# IDE
+.idea
